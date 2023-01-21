@@ -7,7 +7,7 @@ This is a `what if?` hypothetical repository I created in response
 to one of hackNY's essay prompts.
 
 That's it! There's nothing else here. If you feel like exploring more,
-you can check out my profile page https://github.com/soobinrho 👍
+check out my profile https://github.com/soobinrho 👍
 
 <br>
 <br>
